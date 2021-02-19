@@ -1,0 +1,2 @@
+# obsidian-oyster
+Nonogram Solver
